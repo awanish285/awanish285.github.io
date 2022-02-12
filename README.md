@@ -26,4 +26,9 @@ Let's see what is meant by Hypertext Markup Language, and Web page.
 #Hyper Text: 
 HyperText simply means "Text within Text." A text has a link within it, is a hypertext. 
 Whenever you click on a link which brings you to a new webpage, you have clicked on a hypertext. 
-HyperText is a way to link two or more web pages (HTML documents) with each othe
+HyperText is a way to link two or more web pages (HTML documents) with each other
+
+
+#Markup language: 
+A markup language is a computer language that is used to apply layout and formatting conventions to a text document. 
+Markup language makes text more interactive and dynamic. It can turn text into images, tables, links, etc.
