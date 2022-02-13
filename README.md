@@ -71,4 +71,16 @@ A web page can be identified by entering an URL. A Web page can be of the static
 2) It must be closed before the body tag opens.
 
 
+#<title>:
+ 
+1) As its name suggested, it is used to add title of that HTML page which appears at the top of the browser window. 
+2) It must be placed inside the head tag and should close immediately. (Optional)
+
+
+#<body> : 
+
+1) Text between body tag describes the body content of the page that is visible to the end user. 
+2) This tag contains the main content of the HTML document.
+
+
 =================================================================================================================================================================================
