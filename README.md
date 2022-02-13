@@ -7,7 +7,7 @@
 #technology Used
 HTML,CSS,JavaScript
 
-
+========================================================================================================================================================
 
 
 #What is HTML
@@ -38,6 +38,8 @@ Markup language makes text more interactive and dynamic. It can turn text into i
 A web page is a document which is commonly written in HTML and translated by a web browser. 
 A web page can be identified by entering an URL. A Web page can be of the static or dynamic type. With the help of HTML only, we can create static web pages.
 
+================================================================================================================================================================================
+
 #example of HTML.
 
 <!DOCTYPE>  
@@ -49,4 +51,24 @@ A web page can be identified by entering an URL. A Web page can be of the static
 <h1>Write Your First Heading</h1>  
 <p>Write Your First Paragraph.</p>  
 </body>  
-</html> 
+</html>
+
+
+#Description of HTML Example
+
+<!DOCTYPE>: It defines the document type or it instruct the browser about the version of HTML.
+
+#<html > :
+
+1) This tag informs the browser that it is an HTML document. 
+2) Text between html tag describes the web document. 
+3) It is a container for all other elements of HTML except <!DOCTYPE>
+
+
+#<head>:
+
+1) It should be the first element inside the <html> element, which contains the metadata(information about the document). 
+2) It must be closed before the body tag opens.
+
+
+=================================================================================================================================================================================
