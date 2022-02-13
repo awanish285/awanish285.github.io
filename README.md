@@ -82,5 +82,31 @@ A web page can be identified by entering an URL. A Web page can be of the static
 1) Text between body tag describes the body content of the page that is visible to the end user. 
 2) This tag contains the main content of the HTML document.
 
+#<h1> : 
+
+Text between <h1> tag describes the first level heading of the webpage.
+
+#<p> : 
+
+Text between <p> tag describes the paragraph of the webpage.
+
+
+
+#Features of HTML
+
+1) It is a very easy and simple language. It can be easily understood and modified.
+
+2) It is very easy to make an effective presentation with HTML because it has a lot of formatting tags.
+
+3) It is a markup language, so it provides a flexible way to design web pages along with the text.
+
+4) It facilitates programmers to add a link on the web pages (by html anchor tag), so it enhances the interest of browsing of the user.
+
+5) It is platform-independent because it can be displayed on any platform like Windows, Linux, and Macintosh, etc.
+
+6) It facilitates the programmer to add Graphics, Videos, and Sound to the web pages which makes it more attractive and interactive.
+
+7) HTML is a case-insensitive language, which means we can use tags either in lower-case or upper-case.
+
 
 =================================================================================================================================================================================
