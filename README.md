@@ -123,3 +123,17 @@ The major points of CSS are given below:
 2) CSS is used to design HTML tags.
 3) CSS is a widely used language on the web.
 4) HTML, CSS and JavaScript are used for web designing. It helps the web designers to apply style on HTML tags.
+
+
+
+#What is CSS
+1) CSS stands for Cascading Style Sheets. 
+2) It is a style sheet language which is used to describe the look and formatting of a document written in markup language. 
+3) It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces. 
+4) It can also be used with any kind of XML documents including plain XML, SVG and XUL.
+5) CSS is used along with HTML and JavaScript in most websites to create user interfaces for web applications and user interfaces for many mobile applications.
+
+
+#What does CSS do
+1) You can add new looks to your old HTML documents.
+2) You can completely change the look of your website with only a few changes in CSS code.
