@@ -168,3 +168,15 @@ h1{color:yelow; font-size:11px;}
 #Selector: 
 Selector indicates the HTML element you want to style. It could be any tag like <h1>, <title> etc.
 
+
+#Declaration Block: 
+
+The declaration block can contain one or more declarations separated by a semicolon. For the above example, there are two declarations:
+
+color: yellow;
+font-size: 11 px;
+Each declaration contains a property name and value, separated by a colon.
+
+#Property: 
+A Property is a type of attribute of HTML element. It could be color, border etc.
+
