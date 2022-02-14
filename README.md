@@ -115,3 +115,11 @@ Text between <p> tag describes the paragraph of the webpage.
 
 
 =================================================================================================================================================================================
+#CSS:
+
+The major points of CSS are given below:
+
+1) CSS stands for Cascading Style Sheet.
+2) CSS is used to design HTML tags.
+3) CSS is a widely used language on the web.
+4) HTML, CSS and JavaScript are used for web designing. It helps the web designers to apply style on HTML tags.
