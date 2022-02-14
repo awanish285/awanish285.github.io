@@ -180,3 +180,7 @@ Each declaration contains a property name and value, separated by a colon.
 #Property: 
 A Property is a type of attribute of HTML element. It could be color, border etc.
 
+#Value: 
+
+Values are assigned to CSS properties. In the above example, value "yellow" is assigned to color property.
+
