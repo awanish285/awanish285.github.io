@@ -155,3 +155,16 @@ CSS style definitions are saved in external CSS files so it is possible to chang
 
 # 3) Provide more attributes
 CSS provides more detailed attributes than plain HTML to define the look and feel of the website.
+
+
+#CSS Syntax
+A CSS rule set contains a selector and a declaration block.
+
+# CSS syntax Example:
+
+h1{color:yelow; font-size:11px;}
+
+
+#Selector: 
+Selector indicates the HTML element you want to style. It could be any tag like <h1>, <title> etc.
+
