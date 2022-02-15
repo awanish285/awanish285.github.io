@@ -198,3 +198,18 @@ Values are assigned to CSS properties. In the above example, value "yellow" is a
 4) Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. 
 5) The traditional website uses js to provide several forms of interactivity and simplicity.
 
+
+
+
+#Features of JavaScript
+#There are following features of JavaScript:
+
+1) All popular web browsers support JavaScript as they provide built-in execution environments.
+2) JavaScript follows the syntax and structure of the C programming language. Thus, it is a structured programming language.
+3) JavaScript is a weakly typed language, where certain types are implicitly cast (depending on the operation).
+4) JavaScript is an object-oriented programming language that uses prototypes rather than using classes for inheritance.
+5) It is a light-weighted and interpreted language.
+6) It is a case-sensitive language.
+7) JavaScript is supportable in several operating systems including, Windows, macOS, etc.
+8) It provides good control to the users over the web browsers.
+
