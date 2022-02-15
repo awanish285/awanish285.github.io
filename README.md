@@ -213,3 +213,19 @@ Values are assigned to CSS properties. In the above example, value "yellow" is a
 7) JavaScript is supportable in several operating systems including, Windows, macOS, etc.
 8) It provides good control to the users over the web browsers.
 
+
+# Application of JavaScript
+JavaScript is used to create interactive websites. It is mainly used for:
+
+1) Client-side validation,
+2) Dynamic drop-down menus,
+3) Displaying date and time,
+4) Displaying pop-up windows and dialog boxes (like an alert dialog box, confirm dialog box and prompt dialog box),
+5) Displaying clocks etc.
+
+#JavaScript Example
+
+<script>  
+document.write("Hello JavaScript by JavaScript");  
+</script>  
+
