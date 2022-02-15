@@ -184,3 +184,17 @@ A Property is a type of attribute of HTML element. It could be color, border etc
 
 Values are assigned to CSS properties. In the above example, value "yellow" is assigned to color property.
 
+======================================================================================================================================================
+#javaScript:
+
+1) JavaScript is an object-based scripting language which is lightweight and cross-platform.
+
+2) JavaScript is not a compiled language, but it is a translated language. The JavaScript Translator (embedded in the browser) is responsible for translating the JavaScript code for the web browser.
+
+#What is JavaScript:
+1) JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. 
+2) It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. 
+3) It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. 
+4) Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. 
+5) The traditional website uses js to provide several forms of interactivity and simplicity.
+
