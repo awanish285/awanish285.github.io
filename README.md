@@ -227,5 +227,11 @@ JavaScript is used to create interactive websites. It is mainly used for:
 
 <script>  
 document.write("Hello JavaScript by JavaScript");  
-</script>  
+</script> 
+
+1) The script tag specifies that we are using JavaScript.
+
+2) The text/javascript is the content type that provides information to the browser about the data.
+
+===============================================================================================================================================================================================
 
