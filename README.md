@@ -288,5 +288,27 @@ function msg(){
  alert("Hello Javatpoint");  
 }  
 
+
+<html>  
+<head>  
+<script type="text/javascript" src="message.js"></script>  
+</head>  
+<body>  
+<p>Welcome to JavaScript</p>  
+<form>  
+<input type="button" value="click" onclick="msg()"/>  
+</form>  
+</body>  
+</html>  
+
+#Advantages of External JavaScript
+There will be following benefits if a user creates an external javascript:
+
+1) It helps in the reusability of code in more than one HTML file.
+2) It allows easy code readability.
+3) It is time-efficient as web browsers cache the external js files, which further reduces the page loading time.
+4) It enables both web designers and coders to work with html and js files parallelly and separately, i.e., without facing any code conflictions.
+5) The length of the code reduces as only we need to specify the location of the js file.
+
 ===============================================================================================================================================================================================
 
