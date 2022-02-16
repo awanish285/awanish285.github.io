@@ -233,5 +233,13 @@ document.write("Hello JavaScript by JavaScript");
 
 2) The text/javascript is the content type that provides information to the browser about the data.
 
+3) The document.write() function is used to display dynamic content through JavaScript.
+
+# Places to put JavaScript code
+
+1) Between the body tag of html
+2) Between the head tag of html
+3) In .js file (external javaScript)
+
 ===============================================================================================================================================================================================
 
