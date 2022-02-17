@@ -322,5 +322,16 @@ There are the following disadvantages of external files:
 5) We need to check each file that depends on the commonly created external javascript file.
 6) If it is a few lines of code, then better to implement the internal javascript code.
 
+
+#Disadvantages of External JavaScript
+There are the following disadvantages of external files:
+
+1) The stealer may download the coder's code using the url of the js file.
+2) If two js files are dependent on one another, then a failure in one file may affect the execution of the other dependent file.
+3) The web browser needs to make an additional http request to get the js code.
+4) A tiny to a large change in the js code may cause unexpected results in all its dependent files.
+5) We need to check each file that depends on the commonly created external javascript file.
+6) If it is a few lines of code, then better to implement the internal javascript code.
+
 ===============================================================================================================================================================================================
 
