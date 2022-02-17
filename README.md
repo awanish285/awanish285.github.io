@@ -251,11 +251,11 @@ In the above example, we have displayed the dynamic content using JavaScript. Le
 
 
 # JavaScript Example : code between the head tag
-Let’s see the same example of displaying alert dialog box of JavaScript that is contained inside the head tag.
+1) Let’s see the same example of displaying alert dialog box of JavaScript that is contained inside the head tag.
 
-In this example, we are creating a function msg(). To create function in JavaScript, you need to write function with function_name as given below.
+2) In this example, we are creating a function msg(). To create function in JavaScript, you need to write function with function_name as given below.
 
-To call function, you need to work on event. Here we are using onclick event to call msg() function. 
+3) To call function, you need to work on event. Here we are using onclick event to call msg() function. 
 
 
 <html>  
@@ -282,7 +282,7 @@ It provides code re usability because single JavaScript file can be used in seve
 
 An external JavaScript file must be saved by .js extension. It is recommended to embed all JavaScript files into a single file. It increases the speed of the webpage.
 
-message.js
+#message.js
 
 function msg(){  
  alert("Hello Javatpoint");  
@@ -334,4 +334,29 @@ There are the following disadvantages of external files:
 6) If it is a few lines of code, then better to implement the internal javascript code.
 
 ===============================================================================================================================================================================================
+#Git
 
+#What is Git?
+1) Git is an open-source distributed version control system. 
+2) It is designed to handle minor to major projects with high speed and efficiency. 
+3) It is developed to co-ordinate the work among the developers. The version control allows us to track and work together with our team members at the same workspace.
+
+#Features of GitHub
+GitHub is a place where programmers and designers work together. 
+They collaborate, contribute, and fix bugs together. It hosts plenty of open source projects and codes of various programming languages.
+
+#Some of its significant features are as follows.
+
+1) Collaboration
+2) Integrated issue and bug tracking
+3) Graphical representation of branches
+4) Git repositories hosting
+5) Project management
+6) Team management
+7) Code hosting
+8) Track and assign tasks
+9) Conversations
+10) Wikisc
+
+
+==================================================================================================================================================================================================================
