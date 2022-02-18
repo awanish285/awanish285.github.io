@@ -405,4 +405,15 @@ Merging is a process to put a forked history back together. The git merge comman
 #Origin
 In Git, "origin" is a reference to the remote repository from a project was initially cloned. More precisely, it is used instead of that original repository URL to make referencing much easier.
 
+#Git Revert
+In Git, the term revert is used to revert some commit. To revert a commit, git revert command is used. It is an undo type command. However, it is not a traditional undo alternative.
+
+#Git Reset
+In Git, the term reset stands for undoing changes. The git reset command is used to reset the changes. The git reset command has three core forms of invocation. These forms are as follows.
+
+Soft
+Mixed
+Hard
+#Git Ignore
+In Git, the term ignore used to specify intentionally untracked files that Git should ignore. It doesn't affect the Files that already tracked by Git.
 ==================================================================================================================================================================================================================
