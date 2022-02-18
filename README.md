@@ -384,4 +384,10 @@ A branch is a version of the repository that diverges from the main working proj
 #Checkout
 In Git, the term checkout is used for the act of switching between different versions of a target entity. The git checkout command is used to switch between branches in a repository.
 
+#Cherry-Picking
+Cherry-picking in Git is meant to apply some commit from one branch into another branch. In case you made a mistake and committed a change into the wrong branch, but do not want to merge the whole branch. You can revert the commit and cherry-pick it on another branch.
+
+#Clone
+The git clone is a Git command-line utility. It is used to make a copy of the target repository or clone it. If I want a local copy of my repository from GitHub, this tool allows creating a local copy of that repository on your local directory from the repository URL.
+
 ==================================================================================================================================================================================================================
