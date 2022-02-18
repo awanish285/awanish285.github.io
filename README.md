@@ -371,4 +371,17 @@ The key benefits of GitHub are as follows.
 5) You can track changes in your code across versions.
 
 
+#Why is git needed?
+
+1) When a team works on real-life projects, git helps ensure no code conflicts between the developers. 
+2) Furthermore, the project requirements change often. So a git manages all the versions. If needed, we can also go back to the original code. 
+3) The concept of branching allows several projects to run in the same codebase.
+
+#Git Terminology
+#Branch
+A branch is a version of the repository that diverges from the main working project. It is an essential feature available in most modern version control systems. A Git project can have more than one branch. We can perform many operations on Git branch-like rename, list, delete, etc.
+
+#Checkout
+In Git, the term checkout is used for the act of switching between different versions of a target entity. The git checkout command is used to switch between branches in a repository.
+
 ==================================================================================================================================================================================================================
