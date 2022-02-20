@@ -379,16 +379,22 @@ The key benefits of GitHub are as follows.
 
 #Git Terminology
 #Branch
-A branch is a version of the repository that diverges from the main working project. It is an essential feature available in most modern version control systems. A Git project can have more than one branch. We can perform many operations on Git branch-like rename, list, delete, etc.
+1) A branch is a version of the repository that diverges from the main working project. 
+2) It is an essential feature available in most modern version control systems. A Git project can have more than one branch. 
+3) We can perform many operations on Git branch-like rename, list, delete, etc.
 
 #Checkout
-In Git, the term checkout is used for the act of switching between different versions of a target entity. The git checkout command is used to switch between branches in a repository.
+1) In Git, the term checkout is used for the act of switching between different versions of a target entity. 
+2) The git checkout command is used to switch between branches in a repository.
 
 #Cherry-Picking
-Cherry-picking in Git is meant to apply some commit from one branch into another branch. In case you made a mistake and committed a change into the wrong branch, but do not want to merge the whole branch. You can revert the commit and cherry-pick it on another branch.
+1) Cherry-picking in Git is meant to apply some commit from one branch into another branch. 
+2) In case you made a mistake and committed a change into the wrong branch, but do not want to merge the whole branch. 
+3) You can revert the commit and cherry-pick it on another branch.
 
 #Clone
-The git clone is a Git command-line utility. It is used to make a copy of the target repository or clone it. If I want a local copy of my repository from GitHub, this tool allows creating a local copy of that repository on your local directory from the repository URL.
+1) The git clone is a Git command-line utility. It is used to make a copy of the target repository or clone it. 
+2) If I want a local copy of my repository from GitHub, this tool allows creating a local copy of that repository on your local directory from the repository URL.
 
 #Fetch
 It is used to fetch branches and tags from one or more other repositories, along with the objects necessary to complete their histories. It updates the remote-tracking branches.
