@@ -397,22 +397,28 @@ The key benefits of GitHub are as follows.
 2) If I want a local copy of my repository from GitHub, this tool allows creating a local copy of that repository on your local directory from the repository URL.
 
 #Fetch
-It is used to fetch branches and tags from one or more other repositories, along with the objects necessary to complete their histories. It updates the remote-tracking branches.
+1) It is used to fetch branches and tags from one or more other repositories, along with the objects necessary to complete their histories. 
+2) It updates the remote-tracking branches.
 
 #HEAD
-HEAD is the representation of the last commit in the current checkout branch. We can think of the head like a current branch. When you switch branches with git checkout, the HEAD revision changes, and points the new branch.
+1) HEAD is the representation of the last commit in the current checkout branch. 
+2) We can think of the head like a current branch. When you switch branches with git checkout, the HEAD revision changes, and points the new branch.
 
 #Master
-Master is a naming convention for Git branch. It's a default branch of Git. After cloning a project from a remote server, the resulting local repository contains only a single local branch. This branch is called a "master" branch. It means that "master" is a repository's "default" branch.
+1) Master is a naming convention for Git branch. It's a default branch of Git. 
+2) After cloning a project from a remote server, the resulting local repository contains only a single local branch. This branch is called a "master" branch. It means that "master" is a repository's "default" branch.
 
 #Merge
-Merging is a process to put a forked history back together. The git merge command facilitates you to take the data created by git branch and integrate them into a single branch.
+1) Merging is a process to put a forked history back together. 
+2) The git merge command facilitates you to take the data created by git branch and integrate them into a single branch.
 
 #Origin
-In Git, "origin" is a reference to the remote repository from a project was initially cloned. More precisely, it is used instead of that original repository URL to make referencing much easier.
+1) In Git, "origin" is a reference to the remote repository from a project was initially cloned. 
+2) More precisely, it is used instead of that original repository URL to make referencing much easier.
 
 #Git Revert
-In Git, the term revert is used to revert some commit. To revert a commit, git revert command is used. It is an undo type command. However, it is not a traditional undo alternative.
+1) In Git, the term revert is used to revert some commit. To revert a commit, git revert command is used. 
+2) It is an undo type command. However, it is not a traditional undo alternative.
 
 #Git Reset
 In Git, the term reset stands for undoing changes. The git reset command is used to reset the changes. The git reset command has three core forms of invocation. These forms are as follows.
