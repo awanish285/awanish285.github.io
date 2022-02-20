@@ -276,11 +276,11 @@ function msg(){
 
 
 #External JavaScript file
-We can create external JavaScript file and embed it in many html page.
+1) We can create external JavaScript file and embed it in many html page.
 
-It provides code re usability because single JavaScript file can be used in several html pages.
+2) It provides code re usability because single JavaScript file can be used in several html pages.
 
-An external JavaScript file must be saved by .js extension. It is recommended to embed all JavaScript files into a single file. It increases the speed of the webpage.
+3) An external JavaScript file must be saved by .js extension. It is recommended to embed all JavaScript files into a single file. It increases the speed of the webpage.
 
 #message.js
 
@@ -421,11 +421,13 @@ The key benefits of GitHub are as follows.
 2) It is an undo type command. However, it is not a traditional undo alternative.
 
 #Git Reset
-In Git, the term reset stands for undoing changes. The git reset command is used to reset the changes. The git reset command has three core forms of invocation. These forms are as follows.
+1) In Git, the term reset stands for undoing changes. The git reset command is used to reset the changes. 
+2) The git reset command has three core forms of invocation. These forms are as follows.
 
-Soft
-Mixed
-Hard
+a) Soft
+b) Mixed
+c) Hard
 #Git Ignore
-In Git, the term ignore used to specify intentionally untracked files that Git should ignore. It doesn't affect the Files that already tracked by Git.
+1) In Git, the term ignore used to specify intentionally untracked files that Git should ignore. 
+2) It doesn't affect the Files that already tracked by Git.
 ==================================================================================================================================================================================================================
