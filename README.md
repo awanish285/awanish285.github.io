@@ -430,4 +430,21 @@ c) Hard
 #Git Ignore
 1) In Git, the term ignore used to specify intentionally untracked files that Git should ignore. 
 2) It doesn't affect the Files that already tracked by Git.
+
+
+
 ==================================================================================================================================================================================================================
+#Bootstrap
+
+What is Bootstrap?
+
+1) Bootstrap is the most popular HTML, CSS and JavaScript framework for developing a responsive and mobile friendly website.
+2) It is absolutely free to download and use.
+3) It is a front-end framework used for easier and faster web development.
+4) It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many others.
+5) It can also use JavaScript plug-ins.
+6) It facilitates you to create responsive designs.
+
+
+
+========================================================================================================================================================================================================================
