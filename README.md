@@ -447,4 +447,18 @@ What is Bootstrap?
 
 
 
+#Why use Bootstrap
+Following are the main advantage of Bootstrap:
+
+It is very easy to use. Anybody having basic knowledge of HTML and CSS can use Bootstrap.
+It facilitates users to develop a responsive website.
+It is compatible on most of browsers like Chrome, Firefox, Internet Explorer, Safari and Opera etc.
+
+
+
+#What is a responsive website
+A website is called responsive website which can automatically adjust itself to look good on all devices, from smart phones to desktops etc.
+
+
+
 ========================================================================================================================================================================================================================
