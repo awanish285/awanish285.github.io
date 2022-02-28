@@ -460,5 +460,26 @@ It is compatible on most of browsers like Chrome, Firefox, Internet Explorer, Sa
 A website is called responsive website which can automatically adjust itself to look good on all devices, from smart phones to desktops etc.
 
 
+#What Bootstrap package contains
+Scaffolding: Bootstrap provides a basic structure with Grid System, link styles, and background.
+
+CSS: Bootstrap comes with the feature of global CSS settings, fundamental HTML elements style and an advanced grid system.
+
+Components: Bootstrap contains a lot of reusable components built to provide iconography, dropdowns, navigation, alerts, pop-overs, and much more.
+
+JavaScript Plugins: Bootstrap also contains a lot of custom jQuery plugins. You can easily include them all, or one by one.
+
+Customize: Bootstrap components are customizable and you can customize Bootstrap's components, LESS variables, and jQuery plugins to get your own style.
+
+
+#What is Bootstrap 4?
+Bootstrap is the newest and latest version of Bootstrap. It is the most popular HTML, CSS, JavaScript framework for developing responsive, mobile first websites.
+
+#Bootstrap 3 vs. Bootstrap 4
+Bootstrap 4 has some new components, faster stylesheet, more buttons, effects and more responsiveness.
+
+Bootstrap 4 supports some the latest, stable releases of all major browsers and platforms.
+
+
 
 ========================================================================================================================================================================================================================
