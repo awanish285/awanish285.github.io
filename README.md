@@ -514,4 +514,26 @@ Containers: container is used to wrap the site contents. There are two container
 The .container class provides a responsive fixed width container.
 The .container-fluid class provides a full width container, spanning the entire width of the viewport.
 
+#Example:
+
+First Bootstrap Example (with responsive fixed width container)
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+  <title>This is a Bootstrap example</title>  
+    
+  <meta name="viewport" content="width=device-width, initial-scale=1">  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">  
+</head>  
+<body>  
+<div class="container">  
+  <h1> First Bootstrap web page</h1>  
+  <p>Write your text here..</p>   
+</div>  
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
+</body>  
+</html>  
+
 ========================================================================================================================================================================================================================
