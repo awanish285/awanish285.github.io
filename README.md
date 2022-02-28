@@ -481,5 +481,19 @@ Bootstrap 4 has some new components, faster stylesheet, more buttons, effects an
 Bootstrap 4 supports some the latest, stable releases of all major browsers and platforms.
 
 
+#First Bootstrap Example
+Add the HTML 5 doctype: Bootstrap uses HTML elements and CSS properties, so you have to add the HTML 5 doctype at the beginning of the page with lang attribute and correct character set.
 
+#Example:
+
+<!DOCTYPE html>    
+<html lang="en">    
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">  
+    
+<title>Any title</title>    
+</head>    
+<body>    
+//write code    
+</body>    
+</html>   
 ========================================================================================================================================================================================================================
