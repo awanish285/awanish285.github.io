@@ -498,22 +498,23 @@ Add the HTML 5 doctype: Bootstrap uses HTML elements and CSS properties, so you 
 </html>   
 
 
-Bootstrap is mobile friendly: Bootstrap 3 is designed to be responsive to mobile devices.
+1) Bootstrap is mobile friendly: Bootstrap 3 is designed to be responsive to mobile devices.
 
-Mobile-first styles are part of the core framework of Bootstrap.You have to add the following <meta> tag inside the <head> element for proper rendering and touch zooming:
+2) Mobile-first styles are part of the core framework of Bootstrap.You have to add the following <meta> tag inside the <head> element for proper rendering and touch zooming:
 
 
 
 #<meta name="viewport" content="width=device-width, initial-scale=1">  
+
 #Note: 
-The "width=device-width" part is used to set the width of the page to follow the screen-width of the device (vary according to the devices).
+1) The "width=device-width" part is used to set the width of the page to follow the screen-width of the device (vary according to the devices).
 
-The initial-scale=1 part is used to set the initial zoom level when the page is first loaded by the browser.
+2) The initial-scale=1 part is used to set the initial zoom level when the page is first loaded by the browser.
 
-Containers: container is used to wrap the site contents. There are two container classes.
+3) Containers: container is used to wrap the site contents. There are two container classes.
 
-The .container class provides a responsive fixed width container.
-The .container-fluid class provides a full width container, spanning the entire width of the viewport.
+4) The .container class provides a responsive fixed width container.
+5) The .container-fluid class provides a full width container, spanning the entire width of the viewport.
 
 #Example:
 
