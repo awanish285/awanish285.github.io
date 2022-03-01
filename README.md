@@ -1,4 +1,5 @@
 # awanish285.github.io
+
 #Resume-project1
 
 
@@ -324,7 +325,7 @@ There are the following disadvantages of external files:
 
 
 #Disadvantages of External JavaScript
-There are the following disadvantages of external files:
+#There are the following disadvantages of external files:
 
 1) The stealer may download the coder's code using the url of the js file.
 2) If two js files are dependent on one another, then a failure in one file may affect the execution of the other dependent file.
@@ -362,7 +363,7 @@ They collaborate, contribute, and fix bugs together. It hosts plenty of open sou
 #Benefits of GitHub
 GitHub can be separated as the Git and the Hub. GitHub service includes access controls as well as collaboration features like task management, repository hosting, and team management.
 
-The key benefits of GitHub are as follows.
+#The key benefits of GitHub are as follows.
 
 1) It is easy to contribute to open source projects via GitHub.
 2) It helps to create an excellent document.
@@ -461,15 +462,15 @@ A website is called responsive website which can automatically adjust itself to 
 
 
 #What Bootstrap package contains
-Scaffolding: Bootstrap provides a basic structure with Grid System, link styles, and background.
+1) Scaffolding: Bootstrap provides a basic structure with Grid System, link styles, and background.
 
-CSS: Bootstrap comes with the feature of global CSS settings, fundamental HTML elements style and an advanced grid system.
+2) CSS: Bootstrap comes with the feature of global CSS settings, fundamental HTML elements style and an advanced grid system.
 
-Components: Bootstrap contains a lot of reusable components built to provide iconography, dropdowns, navigation, alerts, pop-overs, and much more.
+3) Components: Bootstrap contains a lot of reusable components built to provide iconography, dropdowns, navigation, alerts, pop-overs, and much more.
 
-JavaScript Plugins: Bootstrap also contains a lot of custom jQuery plugins. You can easily include them all, or one by one.
+4) JavaScript Plugins: Bootstrap also contains a lot of custom jQuery plugins. You can easily include them all, or one by one.
 
-Customize: Bootstrap components are customizable and you can customize Bootstrap's components, LESS variables, and jQuery plugins to get your own style.
+5) Customize: Bootstrap components are customizable and you can customize Bootstrap's components, LESS variables, and jQuery plugins to get your own style.
 
 
 #What is Bootstrap 4?
@@ -518,7 +519,7 @@ Add the HTML 5 doctype: Bootstrap uses HTML elements and CSS properties, so you 
 
 #Example:
 
-First Bootstrap Example (with responsive fixed width container)
+#First Bootstrap Example (with responsive fixed width container)
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
