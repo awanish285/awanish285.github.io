@@ -448,11 +448,11 @@ What is Bootstrap?
 
 
 #Why use Bootstrap
-Following are the main advantage of Bootstrap:
+#Following are the main advantage of Bootstrap:
 
-It is very easy to use. Anybody having basic knowledge of HTML and CSS can use Bootstrap.
-It facilitates users to develop a responsive website.
-It is compatible on most of browsers like Chrome, Firefox, Internet Explorer, Safari and Opera etc.
+1) It is very easy to use. Anybody having basic knowledge of HTML and CSS can use Bootstrap.
+2) It facilitates users to develop a responsive website.
+3) It is compatible on most of browsers like Chrome, Firefox, Internet Explorer, Safari and Opera etc.
 
 
 
@@ -476,9 +476,9 @@ Customize: Bootstrap components are customizable and you can customize Bootstrap
 Bootstrap is the newest and latest version of Bootstrap. It is the most popular HTML, CSS, JavaScript framework for developing responsive, mobile first websites.
 
 #Bootstrap 3 vs. Bootstrap 4
-Bootstrap 4 has some new components, faster stylesheet, more buttons, effects and more responsiveness.
+1) Bootstrap 4 has some new components, faster stylesheet, more buttons, effects and more responsiveness.
 
-Bootstrap 4 supports some the latest, stable releases of all major browsers and platforms.
+2) Bootstrap 4 supports some the latest, stable releases of all major browsers and platforms.
 
 
 #First Bootstrap Example
@@ -505,7 +505,8 @@ Mobile-first styles are part of the core framework of Bootstrap.You have to add 
 
 
 #<meta name="viewport" content="width=device-width, initial-scale=1">  
-Note: The "width=device-width" part is used to set the width of the page to follow the screen-width of the device (vary according to the devices).
+#Note: 
+The "width=device-width" part is used to set the width of the page to follow the screen-width of the device (vary according to the devices).
 
 The initial-scale=1 part is used to set the initial zoom level when the page is first loaded by the browser.
 
