@@ -462,15 +462,25 @@ A website is called responsive website which can automatically adjust itself to 
 
 
 #What Bootstrap package contains
-1) Scaffolding: Bootstrap provides a basic structure with Grid System, link styles, and background.
+#1) Scaffolding: 
 
-2) CSS: Bootstrap comes with the feature of global CSS settings, fundamental HTML elements style and an advanced grid system.
+   Bootstrap provides a basic structure with Grid System, link styles, and background.
 
-3) Components: Bootstrap contains a lot of reusable components built to provide iconography, dropdowns, navigation, alerts, pop-overs, and much more.
+#2) CSS: 
 
-4) JavaScript Plugins: Bootstrap also contains a lot of custom jQuery plugins. You can easily include them all, or one by one.
+    Bootstrap comes with the feature of global CSS settings, fundamental HTML elements style and an advanced grid system.
 
-5) Customize: Bootstrap components are customizable and you can customize Bootstrap's components, LESS variables, and jQuery plugins to get your own style.
+#3) Components: 
+
+  Bootstrap contains a lot of reusable components built to provide iconography, dropdowns, navigation, alerts, pop-overs, and much more.
+
+#4) JavaScript Plugins: 
+
+    Bootstrap also contains a lot of custom jQuery plugins. You can easily include them all, or one by one.
+
+#5) Customize: 
+
+    Bootstrap components are customizable and you can customize Bootstrap's components, LESS variables, and jQuery plugins to get your own style.
 
 
 #What is Bootstrap 4?
